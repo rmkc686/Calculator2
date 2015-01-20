@@ -67,7 +67,7 @@ public class Calculator2 {
 
 		System.out.print(prompt);
 		System.out.flush();
-		
+		//
 		try {
 			return stdin.readLine();
 		} catch (Exception e) {
