@@ -6,7 +6,7 @@ public class Calculator2 {
 		String s1 = getInput("Enter a numeric value: ");
 		String s2 = getInput("Enter a numeric value: ");
 		String op = getInput("Enter 1=Add, 2=Subtract, 3=Multiply, 4=Divide");
-		
+		//
 		int opInt = Integer.parseInt(op);
 		double result = 0;
 		
